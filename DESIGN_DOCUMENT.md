@@ -12,9 +12,7 @@ This is a Flutter-based Android application for grocery shop owners and customer
 
 ### Build Instructions
 1. Open terminal and navigate to the project directory:
-   ```
-   cd "c:\Users\Parv\OneDrive\Desktop\CN mu\Assignment\assignment"
-   ```
+
 2. Install dependencies:
    ```
    flutter pub get
